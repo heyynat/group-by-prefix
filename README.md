@@ -67,4 +67,3 @@ ruby challenge.rb
 ### Resultado Esperado
 
 - ✔️ Todos os testes passam → mensagem de sucesso
-- ❌ Implementação ausente → NotImplementedError com dica de implementação
